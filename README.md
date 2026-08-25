@@ -13,20 +13,12 @@ A simple, responsive weather application that fetches real-time weather data for
 - Clean error handling for empty input, invalid city, and network issues.
 - Mobile-friendly design.
 
-## Tech Stac
+## Tech Stack
 
 - HTML5
 - CSS3 (optional – see `style.css`)
 - Vanilla JavaScript (ES6+ modules)
 - [wttr.in](https://wttr.in) API (no key required)
-
-## Live Demo
-
-*(Add your deployed link here if available)*
-
-## Screenshot
-
-![Weather App Screenshot](screenshot.png) *(optional)*
 
 ## Getting Started
 
