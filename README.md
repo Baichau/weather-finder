@@ -56,10 +56,10 @@ npm test
 
 ## Deploy to GitHub Pages
 
-The included GitHub Actions workflow enables GitHub Pages if needed and publishes the static app when changes are pushed to `main`.
+The included GitHub Actions workflow publishes the static app when changes are pushed to `main`.
 
-1. Push to `main` or run **Deploy to GitHub Pages** from the **Actions** tab.
-2. The first workflow run enables Pages; check **Settings → Pages** and confirm **GitHub Actions** is the build source.
+1. Open **Settings → Pages** and choose **GitHub Actions** as the build source.
+2. Push to `main` or run **Deploy to GitHub Pages** from the **Actions** tab.
 3. When the deployment completes, the site is available at <https://baichau.github.io/weather-finder/>.
 
 Add that URL as the repository website in the **About** box on the repository's main page.
